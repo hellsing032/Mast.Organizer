@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://mastoryganizer.netlify.app/"
 languageCode  = "en-us"
 title         = "Mastoryganizer | Event Organizer"
 theme         = "roxo-hugo"
