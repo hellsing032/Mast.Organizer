@@ -1,8 +1,8 @@
 enable  : true
 galleryImages :
-  - image : images/portfolio/item-1.jpg
-  - image : images/portfolio/item-2.jpg
-  - image : images/portfolio/item-3.jpg
-  - image : images/portfolio/item-4.jpg
-  - image : images/portfolio/item-5.jpg
-  - image : images/portfolio/item-6.jpg
+  - image : images/projects/IMG_0458.JPG
+  - image : images/projects/EA6A0241.jpg
+  - image : images/projects/IMG_5988.JPG
+  - image : images/projects/IMG_3893.JPG
+  - image : images/projects/1-2.jpeg
+  - image : images/projects/1-4.jpeg
