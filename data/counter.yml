@@ -1,5 +1,5 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "OUR ACHIEVEMENTS"
 counter_item: 
   - title: "Happy Clients"
     number: "250"
@@ -7,8 +7,8 @@ counter_item:
   - title: "Projects Completed"
     number: "100"
 
-  - title: "Cups of coffee"
+  - title: "Events Hosted"
     number: "350"
 
-  - title: "Telephone Talks"
+  - title: "Hours of Work"
     number: "775"
