@@ -102,6 +102,7 @@ summarylength = 25
     more_works = "MORE WORKS"
     scroll_down = "scroll down"
 
+
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
